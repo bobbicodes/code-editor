@@ -208,6 +208,13 @@
   dependencies:
     "@codemirror/language" "^6.0.0"
 
+"@codemirror/legacy-modes@^6.3.2":
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/@codemirror/legacy-modes/-/legacy-modes-6.3.2.tgz#d5616b453f38866717437b51c16bde1ae3f011ec"
+  integrity sha512-ki5sqNKWzKi5AKvpVE6Cna4Q+SgxYuYVLAZFSsMjGBWx5qSVa+D+xipix65GS3f2syTfAD9pXKMX4i4p49eneQ==
+  dependencies:
+    "@codemirror/language" "^6.0.0"
+
 "@codemirror/lint@^6.0.0":
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/@codemirror/lint/-/lint-6.0.0.tgz#a249b021ac9933b94fe312d994d220f0ef11a157"
