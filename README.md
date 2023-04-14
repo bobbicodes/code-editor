@@ -1,6 +1,6 @@
-# Markdown Editor Web Application
+# code-editor
 
-A markdown editor built with Next.js.
+A Clojure editor built with Codemirror 6.
 
 **App in development environment**
 <img width="1440" alt="Screenshot 2022-10-09 at 15 28 58" src="https://user-images.githubusercontent.com/93111441/194884415-e6da9dfd-be25-4324-816c-6f61d5156bcc.png">
